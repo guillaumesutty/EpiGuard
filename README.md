@@ -1,6 +1,6 @@
 # EpiGuard - A browser game to understand the role of epigenetics in brain pediatric cancer.
 
-Conceived and developped by [] as part of the Workshop on GenAI organised by [PEPR Cell-ID](https://www.pepr-cell-id.fr/) at the Institut Curie.
+Conceived and developped by Iva Simeonova, Guillaume Sutty, Jatin Shrinet, Ellora Chua and Phong Tran as part of the Workshop on GenAI organised by [PEPR Cell-ID](https://www.pepr-cell-id.fr/) at the Institut Curie.
 
 Claude Sonnet 4.6 was used to generate the code.
 
